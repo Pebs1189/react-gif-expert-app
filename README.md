@@ -25,7 +25,7 @@ My first React App: its a basic gif search created in React.
 
 ### Use it in real
 ~~~
-- [Url a GifExpertApp](https://pebs1189.github.io/react-gif-expert-app/)
+https://pebs1189.github.io/react-gif-expert-app/
 ~~~
 
 ### Tests (not implemented yet)
